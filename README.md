@@ -4,7 +4,7 @@ bot that plays fnf
 very simple python script that looks at the pixels where the arrows are (hard coded), when those pixels change color (also hard coded colors) the bot will press the respective arrow key. **many comments, notes and code scraps are still left in the code so ignore those.**
 
 # how to use
-just run main.py and if it doesen't work adjust the coordinates in the code (i will make it easier to do this through a gui i promise)
+just run main.py and if it doesen't work adjust the coordinates in the code (i will make it easier to do this through a gui)
 
 # to do list:
 - gui
